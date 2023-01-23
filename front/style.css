@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+
+.choose-theme {
+    margin-top: 13%;
+}
+
+
+.first-theme {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.theme {
+    border: 1px solid black;
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.both-theme {
+    display: flex;
+    justify-content: center;
+
+}
